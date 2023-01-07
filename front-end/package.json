@@ -1,0 +1,23 @@
+{
+  "name": "project_express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon -e js,ejs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "athena-express": "^7.1.5",
+    "aws-sdk": "^2.1267.0",
+    "ejs": "^3.1.2",
+    "express": "^4.17.1",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}

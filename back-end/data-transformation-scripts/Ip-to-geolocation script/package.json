@@ -1,0 +1,14 @@
+{
+  "name": "script",
+  "version": "1.0.0",
+  "description": "Ip-address to Geolocation conversion script",
+  "main": "ip-to-geolocation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ushmajeet Sikdar(usa7)",
+  "license": "ISC",
+  "dependencies": {
+    "decompress": "^4.2.1"
+  }
+}
